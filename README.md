@@ -1,5 +1,6 @@
 # İHA Destekli Orman Yangını Risk Tespiti
-![Uploading image.png…]()
+
+![Model tahminleri](results/val_batch0_pred.jpg)
 
 TÜBİTAK 2209-A kapsamında geliştirilen, insansız hava aracı görüntülerinden orman yangını risk faktörlerini tespit eden YOLOv8 tabanlı nesne tespit modeli.
 
