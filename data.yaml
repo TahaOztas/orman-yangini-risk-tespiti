@@ -1,0 +1,9 @@
+path: /content/dataset
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: izmarit
+  1: cam_kirigi
+  2: duman
